@@ -1,0 +1,11 @@
+edge list
+# nb of vertecies = 5
+# nb of edges = 8
+0	2
+0	4
+1	2
+2	0
+2	1
+2	3
+3	2
+4	0
